@@ -24,7 +24,7 @@ Figure 7: Increase in test scores: Traditional Studying vs Gamified Learning
 ![image](https://github.com/LeeMelzer/Gamified-Learning-Case-Study/assets/114274820/e66e739b-4981-48dd-9bf1-ee3db7ea722b)
 
 Figure 8: Overall increase in test scores: Traditional Studying vs Gamified Learning
-![image](https://github.com/LeeMelzer/Gamified-Learning-Case-Study/assets/114274820/de997367-c7bf-49af-9750-ae3d06bd50be)
+![bandicam 2024-05-29 10-44-25-346](https://github.com/LeeMelzer/Gamified-Learning-Case-Study/assets/114274820/03929af2-5a70-4bfc-b38c-dd7487af3dac)
 
 Figure 9: Relationship between number of games played and score increase
 ![image](https://github.com/LeeMelzer/Gamified-Learning-Case-Study/assets/114274820/20b8c562-0861-4327-8d13-7f244f84bfd9)
